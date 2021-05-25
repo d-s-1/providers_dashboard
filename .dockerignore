@@ -1,0 +1,33 @@
+# =============================================
+# what I added
+# =============================================
+
+.idea
+venv
+cache-directory
+app.db
+.env
+*.md
+
+
+# =============================================
+# Python-related from https://github.com/GoogleCloudPlatform/getting-started-python/blob/main/optional-kubernetes-engine/.dockerignore
+# =============================================
+
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+*.log
+.git
