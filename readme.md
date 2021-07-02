@@ -1,7 +1,7 @@
 # Providers Dashboard
 
 ## About
-Dashboard based on 2017 Medicare provider data and built with Python's Dash library.  This app uses a SQLite backend (a table of 9M+ records) and runs on AWS using Docker & Gunicorn (4 workers).
+Dashboard based on 2017 Medicare provider data and built with Python's Dash library.  This app uses a SQLite backend (a table of 9M+ records) and was initially deployed on AWS using Docker & Gunicorn (4 workers).
 
 ## Feature Notes
 * caching of results
